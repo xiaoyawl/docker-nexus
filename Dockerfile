@@ -1,4 +1,4 @@
-FROM benyoo/alpine:jdk-8
+FROM benyoo/alpine:8-jdk-alpine
 MAINTAINER from www.dwhd.org by lookback (mondeolove@gmail.com)
 
 ARG VERSION=3.0.2-02
